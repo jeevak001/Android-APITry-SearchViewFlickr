@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/jeeva/Desktop/PhotoFlickr/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/Users/jeeva/Desktop/PhotoFlickr/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jeeva/Desktop/PhotoFlickr/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/jeeva/Desktop/PhotoFlickr/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,7 @@
+#Sun Oct 01 18:05:36 IST 2017
+base.0=/Users/jeeva/Desktop/PhotoFlickr/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ed56cfe48b56eddf46b8a6d1ecd1bf78de1ad126
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/jeeva/Desktop/PhotoFlickr/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f457b4e14e36265f14c8a201aec9405bfa6865de/classes.dex
+base.1=/Users/jeeva/Desktop/PhotoFlickr/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f457b4e14e36265f14c8a201aec9405bfa6865de
+file.0=/Users/jeeva/Desktop/PhotoFlickr/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ed56cfe48b56eddf46b8a6d1ecd1bf78de1ad126/classes.dex
